@@ -19,4 +19,4 @@ If you’d like to:
 - Optimize Rust backend performance  
 - Fix bugs  
 
-👉 Reach out to me directly via **GitHub Issues** or **[email](mailto:abdelouahab.aourar@gmail.com)**  
+👉 For collaboration or access to the **source code**, please contact me directly via **[email](mailto:abdelouahab.aourar@gmail.com)**.
