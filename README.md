@@ -8,7 +8,7 @@ A cross-platform desktop application (only windows x64 executable in this reposi
 - 💻 **System Info** Os version, kernel and more
 - 🔋 **Battery** health, cycles, capacity, charge percentage  
 - 🖥️ **Display** resolution, refresh rate, and more
-![App Screenshot](./screenshot.png)
+![App Screenshot](screenshot.png)
 
 ## 👥 Collaboration
 
